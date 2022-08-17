@@ -1,6 +1,6 @@
 authentication:
   username: "pi"
-  password: "timetunnel"
+  password: "mypassword"
 server_info:
   server: "192.168.1.65"
   port: 21
