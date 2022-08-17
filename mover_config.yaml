@@ -1,0 +1,22 @@
+authentication:
+  username: "pi"
+  password: "timetunnel"
+server_info:
+  server: "192.168.1.65"
+  port: 21
+is_local_drive: false
+from_path: "/home/prince/Desktop/dirA/"
+to_path: "ftpTest"
+
+
+
+#-----------------
+calling-birds:
+  - huey
+  - dewey
+  - louie
+  - fred
+xmas-fifth-day:
+  partridges:
+    count: 1
+    location: "a pear tree"
